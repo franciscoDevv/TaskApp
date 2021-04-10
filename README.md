@@ -1,3 +1,6 @@
+![TASKAPP](https://user-images.githubusercontent.com/77551844/114276962-041e5280-99f7-11eb-9a1a-ca577cb73c12.jpg)
+
+
 # TaskApp
 
 ## Uso
